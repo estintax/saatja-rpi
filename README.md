@@ -13,7 +13,7 @@ $ cd saatja
 $ git submodule init
 $ git submodule update
 $ go build
-$ ./saatja [текст (регистр не учитывается)]
+$ ./saatja [text (not case sensitive)]
 ```
 
 ## Warnings
