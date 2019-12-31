@@ -1,6 +1,6 @@
 # saatja
 
-Небольшая программа для Raspberry Pi для передачи кода Морзе с помощью RF-передатчика FS1000A.
+Небольшая экспериментальная программа для Raspberry Pi для передачи кода Морзе с помощью RF-передатчика FS1000A.
 
 ![Изображение передатчика FS1000A](https://raw.githubusercontent.com/estintax/saatja/master/doc/fs1000a.png)
 

@@ -1,6 +1,6 @@
 # saatja
 
-A small program for the Raspberry Pi to transmit Morse code using the FS1000A RF-transmitter.
+A small experimental program for the Raspberry Pi to transmit Morse code using the FS1000A RF-transmitter.
 
 ![FS1000A](https://raw.githubusercontent.com/estintax/saatja/master/doc/fs1000a.png)
 
