@@ -1,0 +1,3 @@
+[submodule "go-rpio"]
+	path = go-rpio
+	url = https://github.com/stianeikeland/go-rpio.git

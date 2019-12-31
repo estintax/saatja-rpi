@@ -7,7 +7,7 @@ import (
   "time"
 
   "./cupfmc"
-  "github.com/stianeikeland/go-rpio"
+  "./go-rpio"
 )
 
 func main() {
